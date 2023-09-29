@@ -8,3 +8,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oederson&layout=compact&theme=transparent)](https://github.com/benattimatheus/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?oederson=anuraghazra&hide_progress=true)
+
