@@ -6,4 +6,4 @@
 
 ![oederson's GitHub stats](https://github-readme-stats.vercel.app/api?username=oederson&count_private=true&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oederson&layout=compact&theme=transparent)](https://github.com/oederson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oederson&theme=transparent&layout=donut-vertical)](https://github.com/oederson/github-readme-stats)
