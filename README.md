@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ederson-uema-338a95247/)
 
 ## GitHub Stats
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?oederson&theme=gotham)
 
 ![oederson's GitHub stats](https://github-readme-stats.vercel.app/api?username=oederson&count_private=true&show_icons=true&theme=transparent)
 
