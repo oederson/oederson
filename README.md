@@ -1,4 +1,6 @@
 # Olá! Eu sou o Eder
+## Estudando no momento: 
+![C#](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ederson-uema-338a95247/)
 
