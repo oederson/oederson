@@ -4,6 +4,8 @@
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ederson-uema-338a95247/)
 
+## Codewars badge : <img src="https://www.codewars.com/users/oederson/badges/micro"/>
+
 ## GitHub Stats 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oederson&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ederson github stats" /> 
